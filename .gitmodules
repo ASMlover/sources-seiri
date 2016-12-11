@@ -1,0 +1,114 @@
+[submodule "seiri/game/openage"]
+	path = seiri/game/openage
+	url = https://github.com/SFTtech/openage.git
+[submodule "seiri/game/kbengine"]
+	path = seiri/game/kbengine
+	url = https://github.com/kbengine/kbengine.git
+[submodule "seiri/game/plainframework1"]
+	path = seiri/game/plainframework1
+	url = https://github.com/viticm/plainframework1.git
+[submodule "seiri/game/Horde3D"]
+	path = seiri/game/Horde3D
+	url = https://github.com/horde3d/Horde3D.git
+[submodule "seiri/game/Urho3D"]
+	path = seiri/game/Urho3D
+	url = https://github.com/urho3d/Urho3D.git
+[submodule "seiri/game/MaNGOS"]
+	path = seiri/game/MaNGOS
+	url = https://github.com/mangos/MaNGOS.git
+[submodule "seiri/game/quick-cocos2d-x"]
+	path = seiri/game/quick-cocos2d-x
+	url = https://github.com/chukong/quick-cocos2d-x.git
+[submodule "seiri/game/cocos2d-x"]
+	path = seiri/game/cocos2d-x
+	url = https://github.com/cocos2d/cocos2d-x.git
+[submodule "seiri/python/cpython"]
+	path = seiri/python/cpython
+	url = https://github.com/python/cpython.git
+[submodule "seiri/python/gevent"]
+	path = seiri/python/gevent
+	url = https://github.com/gevent/gevent.git
+[submodule "seiri/python/yapf"]
+	path = seiri/python/yapf
+	url = https://github.com/google/yapf.git
+[submodule "seiri/python/script.module.pydevd"]
+	path = seiri/python/script.module.pydevd
+	url = https://github.com/powlo/script.module.pydevd.git
+[submodule "seiri/python/lython"]
+	path = seiri/python/lython
+	url = https://github.com/Delaunay/lython.git
+[submodule "seiri/network/enet"]
+	path = seiri/network/enet
+	url = https://github.com/lsalzman/enet.git
+[submodule "seiri/network/sofa-pbrpc"]
+	path = seiri/network/sofa-pbrpc
+	url = https://github.com/baidu/sofa-pbrpc.git
+[submodule "seiri/network/libuv"]
+	path = seiri/network/libuv
+	url = https://github.com/libuv/libuv.git
+[submodule "seiri/network/fibio"]
+	path = seiri/network/fibio
+	url = https://github.com/windoze/fibio.git
+[submodule "seiri/network/protobuf"]
+	path = seiri/network/protobuf
+	url = https://github.com/google/protobuf.git
+[submodule "seiri/network/grpc"]
+	path = seiri/network/grpc
+	url = https://github.com/grpc/grpc.git
+[submodule "seiri/network/BGCC"]
+	path = seiri/network/BGCC
+	url = https://github.com/BaiduCC/BGCC.git
+[submodule "seiri/network/casocklib"]
+	path = seiri/network/casocklib
+	url = https://github.com/Hanlos/casocklib.git
+[submodule "seiri/network/asio"]
+	path = seiri/network/asio
+	url = https://github.com/chriskohlhoff/asio.git
+[submodule "seiri/network/libzmq"]
+	path = seiri/network/libzmq
+	url = https://github.com/zeromq/libzmq.git
+[submodule "seiri/network/msgpack-c"]
+	path = seiri/network/msgpack-c
+	url = https://github.com/msgpack/msgpack-c.git
+[submodule "seiri/compiler/llvm"]
+	path = seiri/compiler/llvm
+	url = https://github.com/llvm-mirror/llvm.git
+[submodule "seiri/compiler/wren"]
+	path = seiri/compiler/wren
+	url = https://github.com/munificent/wren.git
+[submodule "seiri/compiler/roy"]
+	path = seiri/compiler/roy
+	url = https://github.com/puffnfresh/roy.git
+[submodule "seiri/compiler/go"]
+	path = seiri/compiler/go
+	url = https://github.com/golang/go.git
+[submodule "seiri/db/redis"]
+	path = seiri/db/redis
+	url = https://github.com/antirez/redis.git
+[submodule "seiri/db/mongo"]
+	path = seiri/db/mongo
+	url = https://github.com/mongodb/mongo.git
+[submodule "seiri/db/leveldb"]
+	path = seiri/db/leveldb
+	url = https://github.com/google/leveldb.git
+[submodule "seiri/db/SequoiaDB"]
+	path = seiri/db/SequoiaDB
+	url = https://github.com/SequoiaDB/SequoiaDB.git
+[submodule "seiri/web/tornado"]
+	path = seiri/web/tornado
+	url = https://github.com/tornadoweb/tornado.git
+[submodule "seiri/web/flask"]
+	path = seiri/web/flask
+	url = https://github.com/pallets/flask.git
+[submodule "seiri/web/bottle"]
+	path = seiri/web/bottle
+	url = https://github.com/bottlepy/bottle.git
+[submodule "seiri/json/rapidjson"]
+	path = seiri/json/rapidjson
+	url = https://github.com/miloyip/rapidjson.git
+[submodule "seiri/go/hub"]
+	path = seiri/go/hub
+	url = https://github.com/github/hub.git
+[submodule "seiri/go/docker"]
+	path = seiri/go/docker
+	url = https://github.com/docker/docker.git
