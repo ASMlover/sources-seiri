@@ -37,9 +37,6 @@
 [submodule "seiri/python/lython"]
 	path = seiri/python/lython
 	url = https://github.com/Delaunay/lython.git
-[submodule "seiri/network/enet"]
-	path = seiri/network/enet
-	url = https://github.com/lsalzman/enet.git
 [submodule "seiri/network/sofa-pbrpc"]
 	path = seiri/network/sofa-pbrpc
 	url = https://github.com/baidu/sofa-pbrpc.git
@@ -112,3 +109,6 @@
 [submodule "seiri/go/docker"]
 	path = seiri/go/docker
 	url = https://github.com/docker/docker.git
+[submodule "seiri/network/enet"]
+	path = seiri/network/enet
+	url = https://github.com/lsalzman/enet.git
